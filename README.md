@@ -3,8 +3,8 @@
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
-<p align="left">
-  <a href="https://www.youtube.com/@claudiafigueroa" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@claudiafigueroa"  /></a>
+<p align="center">
+  <a href="https://www.PORTAFOLIO.com/@claudiafigueroa" target="blank"><img align="center" src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="@claudiafigueroa"  /></a>
 <a href="https://www.tiktok.com/@claudiafigueroa" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@claudiafigueroa" /></a>
 <a href="https://linkedin.com/in/@claudiafigueroa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@claudiafigueroa"/></a>
 <a href = "mailto:claudia.figueroacd@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@claudiafigueroa"  /></a>

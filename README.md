@@ -25,20 +25,15 @@
 📫 Contacto: **claudia.figueroacd@gmail.com**
 
 
-
-<h2>Creación 👩</h2>
+## Creation 
 <!--Intro start-->
-
+### <img src="https://itsvg.in/favicon.ico" width="16px" />  Portfolio 
+[claudia figueroa - Portfolio](https://itsvg.in) ,
+</> and Crafted with 💛 by claudia figueroa
 <p align="left">
-🎓 ESPECIALISTA EN TECNOLOGIA
 
-🎥  CREADORA DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
-💻 unos cuántos años de experiencia en el MUNDO de tenologia (solo voy a decir más de 15  🙈)
 
-📝 roles en el ámbito: desarrollador... líder... Resolver... cofundadora... emprendedora... programadora freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **claudia.figueroacd@gmail.com**
 
 <!--Intro end-->
   </p>

@@ -78,9 +78,6 @@ Me encanta crear cosas nuevas ⚡
     </p>       
 </td>
   
- 
-    </p>       
-</td>
   
 </tr>
 </table>

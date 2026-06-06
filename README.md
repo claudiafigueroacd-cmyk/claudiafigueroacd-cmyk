@@ -9,7 +9,21 @@ Me encanta crear cosas nuevas ⚡
 <a href = "mailto:claudia.figueroacd@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@claudiafigueroa"  /></a>
   </p>
 <br>
-<h2>Creación 👨‍💻</h2>
+<h2>Soy 👩</h2>
+<!--Intro start-->
+
+<p align="left">
+🎓 ESPECIALISTA EN TECNOLOGIA
+
+🎥  CREADORA DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+
+💻 unos cuántos años de experiencia en el MUNDO de tenologia (solo voy a decir más de 15  🙈)
+
+📝 roles en el ámbito: desarrollador... líder... Resolver... cofundadora... emprendedora... programadora freelance... y en un futuro quién sabe ☺️
+
+📫 Contacto: **claudia.figueroacd@gmail.com**
+
+<h2>Creación 👩</h2>
 <!--Intro start-->
 
 <p align="left">
@@ -26,7 +40,7 @@ Me encanta crear cosas nuevas ⚡
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías conocidas 👩 </h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">

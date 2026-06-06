@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Claudia / unasimpleDev ✨ </h1> 
-Me encanta crear cosas nuevas ⚡
+               Me encanta crear cosas nuevas ⚡
 
-Convertir la imaginación en realidad 🚀
+               Convertir la imaginación en realidad 🚀
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>

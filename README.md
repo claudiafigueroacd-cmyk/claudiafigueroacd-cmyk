@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Claudia / unasimpleDev ✨ </h1> 
+<h1 align="center">Hola 👋  soy Claudia // unasimpleDev ✨ </h1> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
